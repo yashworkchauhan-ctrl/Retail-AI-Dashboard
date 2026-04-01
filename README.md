@@ -4,7 +4,7 @@ AI-powered **Retail Sales Analytics Dashboard** built with **Python, Streamlit a
 
 ---
 ## 🚀 Live Demo
-🔗 https://retail-ai-dashboard.streamlit.app
+🔗 https://retail-ai-yash.streamlit.app
 
 Explore the deployed dashboard using the link above.
 
