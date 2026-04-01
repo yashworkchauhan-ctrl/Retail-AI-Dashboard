@@ -71,7 +71,7 @@ Retail-Analytics-AI-Dashboard
 
 Clone the repository
 
-git clone https://github.com/vishal8881/Retail-Analytics-AI-Dashboard.git
+https://github.com/yashworkchauhan-ctrl/Retail-AI-Dashboard.git
 
 Install dependencies
 
@@ -94,6 +94,6 @@ streamlit run dashboard.py
 
 # 👨‍💻 Author
 
-**Vishal**
+**YASH CHAUHAN **
 
 Data Science & AI Enthusiast
